@@ -1,16 +1,3 @@
-function computerPlay() {
-  const choice = ["rock", "paper", "scissor"];
-  let sign = choice[Math.floor(Math.random() * 3)];
-  return sign;
-}
-
-function playerSelection() {
-  let choice = prompt("What do you want to play? ", "rock");
-  
-
-  return choice;
-}
-
 function game() {
   let flag = true,
     playerPoints = 0,
@@ -74,4 +61,17 @@ function round() {
     }
   }
 }
+function computerPlay() {
+  const choice = ["rock", "paper", "scissor"];
+  let sign = choice[Math.floor(Math.random() * 3)];
+  return sign;
+}
+
+function playerSelection() {
+  let choice = prompt("What do you want to play? ", "rock");
+
+  return choice;
+}
+
+console.log("Rock-Paper-Scissors game, bo3");
 game();
