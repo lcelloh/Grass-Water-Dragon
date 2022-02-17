@@ -1,0 +1,41 @@
+[33mcommit ae14fd66c31a8f75980d2744c207ff451b10c595[m[33m ([m[1;36mHEAD -> [m[1;32mrps-ui[m[33m)[m
+Author: lcelloh <cellittilorenzoh@gmail.com>
+Date:   Thu Feb 17 15:43:13 2022 +0100
+
+    started creating ui
+
+[33mcommit 83043d52b993619abebb8f6bba278824f3d32bea[m[33m ([m[1;31morigin/rps-ui[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: lcelloh <cellittilorenzoh@gmail.com>
+Date:   Wed Feb 16 11:55:33 2022 +0100
+
+    reorganized code
+
+[33mcommit 8d9d91e610046cf37806d916a52cecb0ddb18d7f[m
+Author: lcelloh <cellittilorenzoh@gmail.com>
+Date:   Thu Feb 10 18:14:43 2022 +0100
+
+    rewrote functions and logic, finally works!!
+
+[33mcommit 2c7b836feebba46d777d6737d00579e0823d979c[m
+Author: lcelloh <cellittilorenzoh@gmail.com>
+Date:   Wed Feb 9 12:02:20 2022 +0100
+
+    implemented basic logic for single rounds, have to figure out how to fix game function
+
+[33mcommit c28b4f59b7fa2801a879fefd1ce96a3c40965dd8[m
+Author: lcelloh <cellittilorenzoh@gmail.com>
+Date:   Tue Feb 8 19:51:33 2022 +0100
+
+    set up basic functions
+
+[33mcommit 2b47918fb9af643373c21eed2918340ff624d051[m
+Author: lcelloh <cellittilorenzoh@gmail.com>
+Date:   Tue Feb 8 19:13:00 2022 +0100
+
+    created files
+
+[33mcommit 831da8707297b300af575d56bb8bb27b4fdffa05[m
+Author: lcelloh <92586559+lcelloh@users.noreply.github.com>
+Date:   Tue Feb 8 19:08:20 2022 +0100
+
+    Initial commit
