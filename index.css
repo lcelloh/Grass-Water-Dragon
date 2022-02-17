@@ -1,0 +1,66 @@
+body{
+    background-image: url(/images/bg.png);
+    margin: 0;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Eczar', serif;
+    font-size: 300%;
+    background-color: #25274d;
+    padding-left: auto;
+    margin: 0px;
+    color: #aaabb8;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cont {
+    display: flex;
+    flex-direction: column;
+    margin-right: 6%;
+    margin-left: 6%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    width: auto;
+    height: 35rem;
+    background-color: #9e81ad;
+}
+
+#c-1{
+    display: flex;
+    justify-content: center;
+}
+
+#Bo3 {
+    font-size: 2rem;
+    font-family: 'Eczar', serif;
+    color: #464866;
+}
+
+#c-2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+
+#battle-logo{
+    width: 4rem;
+    height: 4rem;
+    margin-top: 3%;
+}
+
+.im-choice{
+    background-color: rgba(150, 144, 155, 0.788);
+    width: 8rem;
+    height: 8rem;
+    border-width: 5%;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+

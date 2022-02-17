@@ -73,5 +73,5 @@ function playerSelection() {
   return choice;
 }
 
-console.log("Rock-Paper-Scissors game, bo3");
-game();
+//console.log("Rock-Paper-Scissors game, bo3");
+//game();
