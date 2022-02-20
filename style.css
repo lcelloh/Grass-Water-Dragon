@@ -60,6 +60,8 @@ h1 {
 }
 
 .im-choice{
+    display: flex;
+    justify-content: center;
     background-color: rgba(187, 85, 173, 0.884);
     width: 8rem;
     height: 8rem;
@@ -67,6 +69,11 @@ h1 {
     border-color: black;
     border-style: solid;
     border-radius: 50%;
+}
+
+.player-image{
+    height: 7rem ;
+    width: 7rem ;
 }
 
 #c-3{
