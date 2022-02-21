@@ -1,2 +1,2 @@
-# Rock_Paper_Scissor-Project
+# Grass-Water-Dragon
 Small rock paper scissor project
